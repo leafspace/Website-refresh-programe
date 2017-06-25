@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  网页刷新软件Dlg.cpp
+e:\程序\个人项目\网页刷新软件\网页刷新软件\网页刷新软件dlg.cpp(216): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+e:\程序\个人项目\网页刷新软件\网页刷新软件\网页刷新软件dlg.cpp(217): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+e:\程序\个人项目\网页刷新软件\网页刷新软件\网页刷新软件dlg.cpp(219): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+e:\程序\个人项目\网页刷新软件\网页刷新软件\网页刷新软件dlg.cpp(220): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+e:\程序\个人项目\网页刷新软件\网页刷新软件\网页刷新软件dlg.cpp(222): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+e:\程序\个人项目\网页刷新软件\网页刷新软件\网页刷新软件dlg.cpp(223): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  网页刷新软件.cpp
+  explorer1.cpp
+  Generating Code...
+  网页刷新软件.vcxproj -> E:\程序\个人项目\网页刷新软件\Debug\网页刷新软件.exe
+  网页刷新软件.vcxproj -> E:\程序\个人项目\网页刷新软件\Debug\网页刷新软件.pdb (Partial PDB)
